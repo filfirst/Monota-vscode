@@ -1,0 +1,22 @@
+{
+    "name": "monota",
+    "displayName": "Monota",
+    "description": "Monota color theme",
+    "version": "0.0.1",
+    "publisher": "filfirst",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monota",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monota-color-theme.json"
+            }
+        ]
+    }
+}
