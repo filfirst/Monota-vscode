@@ -40,7 +40,7 @@
 		"editorSuggestWidget.background": "#272822",
         "editorSuggestWidget.border": "#75715e",
 		// filfirst
-		"editorGutter.background": "#2e2f29",
+		"editorGutter.background": "#30312b",
 		"peekViewTitle.background": "#1e1f1c",
 		"peekView.border": "#75715e",
 		"peekViewResult.background": "#1e1f1c",
@@ -49,7 +49,7 @@
 		"peekViewResult.matchHighlightBackground": "#75715e",
 		"peekViewEditor.matchHighlightBackground": "#75715e",
 		// filfirst
-		"tab.inactiveBackground": "#4f504a",
+		"tab.inactiveBackground": "#4b4c46",
 		// filfirst
 		"tab.activeBackground": "#76786e",
 		"tab.border": "#1e1f1c",
