@@ -49,9 +49,11 @@
 		"peekViewResult.matchHighlightBackground": "#75715e",
 		"peekViewEditor.matchHighlightBackground": "#75715e",
 		// filfirst
-		"tab.inactiveBackground": "#4b4c46",
+		"tab.inactiveBackground": "#56584e",
 		// filfirst
-		"tab.activeBackground": "#76786e",
+		//"tab.activeBackground": "#4b4c46",
+		//"tab.activeBackground": "#3b3c36",
+		"tab.activeBackground": "#1e1f1c",
 		"tab.border": "#1e1f1c",
 		"tab.inactiveForeground": "#ccccc7",
 		"editorGroupHeader.tabsBackground": "#1e1f1c",
