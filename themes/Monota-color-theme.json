@@ -101,7 +101,9 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#a7a390"
+                // filfirst
+				//"foreground": "#a7a390"
+				"foreground": "#95917e"
 			}
 		},
 		{
