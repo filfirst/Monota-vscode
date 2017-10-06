@@ -51,8 +51,6 @@
 		// filfirst
 		"tab.inactiveBackground": "#56584e",
 		// filfirst
-		//"tab.activeBackground": "#4b4c46",
-		//"tab.activeBackground": "#3b3c36",
 		"tab.activeBackground": "#1e1f1c",
 		"tab.border": "#1e1f1c",
 		"tab.inactiveForeground": "#ccccc7",
@@ -71,6 +69,8 @@
 		"sideBar.background": "#1e1f1c",
 		"sideBarSectionHeader.background": "#272822",
 		"titleBar.activeBackground": "#1e1f1c",
+		// filfirst
+		"titleBar.activeForeground": "#ffffff",
 		"debugToolBar.background": "#1e1f1c",
 		"statusBar.debuggingBackground": "#75715e",
 		"terminal.ansiBlack": "#333333",
