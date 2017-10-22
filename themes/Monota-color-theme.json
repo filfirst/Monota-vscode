@@ -28,6 +28,12 @@
 		"editor.foreground": "#ffffff",
 		"editorWidget.background": "#1e1f1c",
 		"editor.selectionBackground": "#49483e",
+		// filfirst
+		"editor.selectionHighlightBackground": "#49483e83",
+		// filfirst
+		"editor.findMatchBackground": "#f2f26e72",
+		// filfirst
+		"editor.findMatchHighlightBackground": "#f2f26e43",
 		"editorHoverWidget.background": "#414339",
 		"editorHoverWidget.border": "#75715e",
 		"diffEditor.insertedTextBackground": "#66852880",
