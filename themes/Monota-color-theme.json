@@ -38,15 +38,18 @@
 		"editorHoverWidget.border": "#75715e",
 		"diffEditor.insertedTextBackground": "#66852880",
 		"diffEditor.removedTextBackground": "#90274a80",
-		"editor.lineHighlightBackground": "#3e3d32",
+		// filfirst
+		// "editor.lineHighlightBackground": "#3e3d32",
+		"editor.lineHighlightBackground": "#37362b",
 		"editorCursor.foreground": "#ffffff",
 		"editorWhitespace.foreground": "#464741",
 		"editorIndentGuide.background": "#464741",
 		"editorLineNumber.foreground": "#90908a",
 		"editorSuggestWidget.background": "#272822",
-        "editorSuggestWidget.border": "#75715e",
+		"editorSuggestWidget.border": "#75715e",
 		// filfirst
-		"editorGutter.background": "#30312b",
+		// "editorGutter.background": "#30312b",
+		"editorGutter.background": "#272822",
 		"peekViewTitle.background": "#1e1f1c",
 		"peekView.border": "#75715e",
 		"peekViewResult.background": "#1e1f1c",
@@ -56,8 +59,6 @@
 		"peekViewEditor.matchHighlightBackground": "#75715e",
 		// filfirst
 		"tab.inactiveBackground": "#56584e",
-		// filfirst
-		"tab.activeBackground": "#1e1f1c",
 		"tab.border": "#1e1f1c",
 		"tab.inactiveForeground": "#ccccc7",
 		"editorGroupHeader.tabsBackground": "#1e1f1c",
@@ -69,7 +70,10 @@
 		"panelTitle.activeBorder": "#75715e",
 		"statusBar.background": "#414339",
 		"statusBar.noFolderBackground": "#414339",
-		"activityBar.background": "#272822",
+		// filfirst
+		// "activityBar.background": "#272822",
+		// "activityBar.background": "#1a1b15",
+		"activityBar.background": "#30312b",
 		"activityBar.foreground": "#ffffff",
 		"activityBar.dropBackground": "#414339",
 		"sideBar.background": "#1e1f1c",
