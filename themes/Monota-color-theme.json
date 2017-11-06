@@ -38,8 +38,7 @@
 		"editorHoverWidget.border": "#75715e",
 		"diffEditor.insertedTextBackground": "#66852880",
 		"diffEditor.removedTextBackground": "#90274a80",
-		// filfirst
-		"editor.lineHighlightBackground": "#37362b",
+		"editor.lineHighlightBackground": "#3e3d32",
 		"editorCursor.foreground": "#ffffff",
 		"editorWhitespace.foreground": "#464741",
 		"editorIndentGuide.background": "#464741",
