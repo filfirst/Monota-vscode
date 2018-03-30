@@ -27,9 +27,10 @@
 		"editor.background": "#272822",
 		"editor.foreground": "#ffffff",
 		"editorWidget.background": "#1e1f1c",
-		"editor.selectionBackground": "#49483e",
 		// filfirst
-		"editor.selectionHighlightBackground": "#49483e83",
+		"editor.selectionBackground": "#878b9180",
+		// filfirst
+		"editor.selectionHighlightBackground": "#575b6180",
 		// filfirst
 		"editor.findMatchBackground": "#f2f26e72",
 		// filfirst
