@@ -13,10 +13,11 @@
 		"inputValidation.errorBackground": "#90274a",
 		"inputValidation.errorBorder": "#f92672",
 		"dropdown.background": "#414339",
+		"dropdown.listBackground": "#1e1f1c",
 		"list.focusBackground": "#414339",
 		"list.activeSelectionBackground": "#75715e",
 		"list.inactiveSelectionBackground": "#414339",
-		"list.hoverBackground": "#272822",
+		"list.hoverBackground": "#3e3d32",
 		"list.dropBackground": "#414339",
 		"list.highlightForeground": "#ffffff",
 		"pickerGroup.foreground": "#75715e",
@@ -27,9 +28,7 @@
 		"editor.background": "#272822",
 		"editor.foreground": "#ffffff",
 		"editorWidget.background": "#1e1f1c",
-		// filfirst
 		"editor.selectionBackground": "#878b9180",
-		// filfirst
 		"editor.selectionHighlightBackground": "#575b6180",
 		// filfirst
 		"editor.findMatchBackground": "#f2f26e72",
@@ -43,10 +42,14 @@
 		"editorCursor.foreground": "#ffffff",
 		"editorWhitespace.foreground": "#464741",
 		"editorIndentGuide.background": "#464741",
+		"editorIndentGuide.activeBackground": "#767771",
 		// filfirst
 		"editorLineNumber.foreground": "#727265",
+		"editorLineNumber.activeForeground": "#c2c2bf",
 		"editorSuggestWidget.background": "#272822",
 		"editorSuggestWidget.border": "#75715e",
+		"editor.wordHighlightBackground": "#4a4a7680",
+		"editor.wordHighlightStrongBackground": "#6a6a9680",
 		// filfirst
 		"editorGutter.background": "#272822",
 		"peekViewTitle.background": "#1e1f1c",
@@ -81,8 +84,8 @@
 		"titleBar.activeBackground": "#1e1f1c",
 		// filfirst
 		"titleBar.activeForeground": "#ffffff",
-		"debugToolBar.background": "#1e1f1c",
 		"statusBar.debuggingBackground": "#75715e",
+		"debugToolBar.background": "#1e1f1c",
 		// filfirst
 		"terminal.ansiBlack": "#000000",
 		"terminal.ansiRed": "#cd1c00",
@@ -125,7 +128,7 @@
 			"name": "Template Definition",
 			"scope": [
 				"punctuation.definition.template-expression",
-				"punctuation.section.embedded.coffee"
+				"punctuation.section.embedded"
 			],
 			"settings": {
 				"foreground": "#F92672"
