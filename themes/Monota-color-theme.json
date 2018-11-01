@@ -112,7 +112,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-                // filfirst
+				// filfirst
 				"foreground": "#95917e"
 			}
 		},
