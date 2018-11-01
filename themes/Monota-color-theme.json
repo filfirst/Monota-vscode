@@ -91,7 +91,7 @@
 		"terminal.ansiRed": "#cd1c00",
 		"terminal.ansiGreen": "#00c600",
 		"terminal.ansiYellow": "#cac800",
-		"terminal.ansiBlue": "#5366ff",
+		"terminal.ansiBlue": "#5050B2",
 		"terminal.ansiMagenta": "#cd31cb",
 		"terminal.ansiCyan": "#00c9cb",
 		"terminal.ansiWhite": "#cbcbcb",
@@ -99,7 +99,7 @@
 		"terminal.ansiBrightRed": "#ff2600",
 		"terminal.ansiBrightGreen": "#00f900",
 		"terminal.ansiBrightYellow": "#fffb00",
-		"terminal.ansiBrightBlue": "#989dff",
+		"terminal.ansiBrightBlue": "#5050FF",
 		"terminal.ansiBrightMagenta": "#ff40ff",
 		"terminal.ansiBrightCyan": "#00fdff",
 		"terminal.ansiBrightWhite": "#ffffff",
@@ -113,7 +113,6 @@
 			"scope": "comment",
 			"settings": {
                 // filfirst
-				//"foreground": "#a7a390"
 				"foreground": "#95917e"
 			}
 		},
